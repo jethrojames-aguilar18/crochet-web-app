@@ -1,6 +1,6 @@
 # Chay Crochet: Yarn Your Way!
 
-![Alt Text](readme-img.png))
+![Alt Text](readme-img.png)
 
 
 ## Overview
